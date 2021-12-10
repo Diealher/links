@@ -32,6 +32,9 @@ body {
     gap: 20px;
     align-items: center;
 }
+.flexContent iframe {
+    width: 80%;
+}
 .flexContent__column {
     flex-direction: column;
 }
